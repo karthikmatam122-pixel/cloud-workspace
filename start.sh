@@ -1,5 +1,5 @@
 #!/bin/bash
-
+exec /init
 mkdir -p /workspace
 
 code-server \
