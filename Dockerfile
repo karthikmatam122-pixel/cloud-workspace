@@ -1,4 +1,4 @@
-FROM codercom/code-server:latest
+FROM lscr.io/linuxserver/code-server:latest
 
 USER root
 
